@@ -18,3 +18,8 @@ Hospitals are now the only spawn points for medical items.
 Supermarkets and pubs now only spawn food and drink.
 
 Offical spawn items (items that you have to search) still spawn everywhere with the default loot.
+
+
+Come and try it out on our server:
+
+[UK] Yorkshire Epoch Chernarus
