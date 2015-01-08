@@ -1,5 +1,5 @@
 # Arma3-Epoch-Lootspawner
-Updated Na_Palm Arma 3 Lootspawner script, modified to work on Arma 3 Epoch Chernarus
+Updated Na_Palm Arma 3 Loot spawner script, modified to work on Arma 3 Epoch Chernarus
 http://forums.bistudio.com/showthread.php?165234-Lootspawner-configurable-building-loot-system
 
 This version includes the additional buildings for Chernarus plus additional buildings added here:
