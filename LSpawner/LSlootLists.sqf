@@ -459,55 +459,18 @@ lootBackpack_list = [
 //								objectlist	: list of worldobject class names
 lootworldObject_list = [
 [ 0, [							// CIVIL
-"ItemLockBox",
-"Box_East_Wps_F",
-"Box_NATO_Wps_F",
-"Land_Basket_F", 					// food
-"Land_CanisterPlastic_F",			// water
-"Land_CanisterFuel_F"				// Jerrycan
+
 ]],[ 1, [						// MILITARY
-"ItemLockBox",
-"Box_East_Wps_F",
-"Box_NATO_Wps_F",
-"Land_CanisterFuel_F",				// jerrycan
-"Land_Can_V3_F", 					// energydrink
-"Land_Suitcase_F"					// repairkit
+
 ]],[ 2, [						// INDUSTRIAL
-"ItemLockBox",
-//"Box_IND_Support_F",	//support boxes don't erease inventory
-"Box_IND_Grenades_F",
-"Box_IND_Ammo_F",
-"Box_NATO_Ammo_F",
-"Land_CanisterFuel_F",				// jerrycan
-"Land_CanisterOil_F", 				// syphon hose
-"Land_Suitcase_F"					// repairkit
+
 ]],[ 3, [						// RESEARCH
-"ItemLockBox",
-"Box_East_Ammo_F",
-"Box_IND_Ammo_F",
-"Box_NATO_Ammo_F",
-"Land_Can_V3_F", 					// energydrink
-"Land_Suitcase_F"					// repairkit
+
 ]],[ 4, [						// MEDICAL
-"ItemLockBox",
-"Box_East_Ammo_F",
-"Box_IND_Ammo_F",
-"Box_NATO_Ammo_F",
-"Land_Can_V3_F", 					// energydrink
-"Land_Suitcase_F"					// repairkit
+
 ]],[ 5, [						// FOOD
-"ItemLockBox",
-"Box_East_Ammo_F",
-"Box_IND_Ammo_F",
-"Box_NATO_Ammo_F",
-"Land_Can_V3_F", 					// energydrink
-"Land_Suitcase_F"					// repairkit
+
 ]],[ 6, [						// HANGARS
-"ItemLockBox",
-"Box_East_Ammo_F",
-"Box_IND_Ammo_F",
-"Box_NATO_Ammo_F",
-"Land_Can_V3_F", 					// energydrink
-"Land_Suitcase_F"					// repairkit
+
 ]]
 ];
